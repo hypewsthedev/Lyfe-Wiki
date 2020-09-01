@@ -11,7 +11,7 @@ Lyfe is a cross server "game" meaning you are competing against players from oth
 
 ### Working with the bot
 To work your way around the bot, you may need to view the commands. We have made it easy for you to view them and see their purposes inside Discord! 
-The main command is `,help`. This brings up the help menu where you can then view all the different aspects of Lyfe. Do `,help (categroy)` to view the different commands for that area. If you need more help, visit our [Support Server](https://discord.gg/zAZ3vKJ)
+The main command is `,help`. This brings up the help menu where you can then view all the different aspects of Lyfe. Do `,help (category)` to view the different commands for that area. If you need more help, visit our [Support Server](https://discord.gg/zAZ3vKJ)
 
 
 
