@@ -1,7 +1,7 @@
 # Lyfe-Wiki
 Code for Lyfe Github Pages 
 
-## Lyfe Link
+## Lyfe Links
 [The Lyfe Repo](https://github.com/UhMarco/Lyfe)
 
 [Support Server](https://discord.gg/zAZ3vKJ)
