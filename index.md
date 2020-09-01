@@ -33,4 +33,4 @@ Having issues with the bot, or just want to talk in our server? Then join the [s
 
 `Lyfe Version 1.2.3` 
 
-`Wiki Version: Beta 1`
+`Wiki Version: Release 1.0`
