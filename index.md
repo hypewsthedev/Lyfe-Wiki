@@ -17,7 +17,7 @@ The main command is `,help`. This brings up the help menu where you can then vie
 As of yet, we do not have a way to accept donations, but it is on the list of things to add. 
 
 ### Vote for the bot!
-We are on https://www.top.gg/ meaning you can help us get a better score and reach more people to use our bot! Vote for our bot [here](https://top.gg/bot/730874220078170122).
+We are on https://www.top.gg/ meaning you can help us get a better score and reach more people to use our bot! Vote for our bot [here](https://top.gg/bot/730874220078170122/vote).
 
 
 ### Support or Contact
