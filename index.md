@@ -7,7 +7,7 @@ Inviting the bot to your server is simple! All you need to do is click [here](ht
 If you have a channel called "general", a message will send with some basic information to help you start your epic adventure! You can bring get the message again by doing `,welcome`. Check out the commands below for a detailed view on how things work!
 
 ### A few basic things you should know
-Lyfe is a cross server "game" meaning you are competing against players from other servers. Commands like `,leaderboard` or `,baltop` will include people from other servers other than your own. Because of this, there is a chance of people abusing the bot for malicious or annoying purposes. Please report and of this to the [support server](https://discord.gg/zAZ3vKJ). In now way shape or form should this bot be used for Malicious Intent and you must abide by the Discord TOS when using it. People found breaking our rules or Discord TOS will be blacklisted from using the bot. This includes individuals and/or servers.
+Lyfe is a cross server "game" meaning you are competing against players from other servers. Commands like `,leaderboard` or `,baltop` will include people from other servers other than your own. Because of this, there is a chance of people abusing the bot for malicious or annoying purposes. Please report and of this to the [support server](https://discord.gg/zAZ3vKJ). In no way shape or form should this bot be used for Malicious Intent and you must abide by the Discord TOS when using it. People found breaking our rules or Discord TOS will be blacklisted from using the bot. This includes individuals and/or servers.
 
 
 
