@@ -31,6 +31,6 @@ Having issues with the bot, or just want to talk in our server? Then join the [s
 
 ![Lyfe Logo](https://cdn.discordapp.com/avatars/730874220078170122/049bcf53fba266166c69b09e0f97dcab.webp?size=64)
 
-`Lyfe Version 1.2.3` 
+`Lyfe Version 1.2.3 (Latest)` 
 
 `Wiki Version: Release 1.0`
