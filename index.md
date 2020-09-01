@@ -30,7 +30,6 @@ We are on https://www.top.gg/ meaning you can help us get a better score and rea
 Having issues with the bot, or just want to talk in our server? Then join the [support discord!](https://discord.gg/zAZ3vKJ)
 
 ![Lyfe Logo](https://cdn.discordapp.com/avatars/730874220078170122/049bcf53fba266166c69b09e0f97dcab.webp?size=64)
-
 `Lyfe Version 1.2.3` 
 
 `Wiki Version: Beta 1`
