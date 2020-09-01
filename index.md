@@ -19,6 +19,11 @@ As of yet, we do not have a way to accept donations, but it is on the list of th
 ### Vote for the bot!
 We are on https://www.top.gg/ meaning you can help us get a better score and reach more people to use our bot! Vote for our bot [here](https://top.gg/bot/730874220078170122/vote).
 
+### Some useful links
+* [Trello](https://trello.com/b/vY8Vx2PW/lyfe-bot)
+* [Support Server](https://discord.gg/zAZ3vKJ)
+* [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=730874220078170122&permissions=519232&scope=bot)
+* [TopGG Vote](https://top.gg/bot/730874220078170122/vote)
 
 ### Support or Contact
 
