@@ -4,4 +4,4 @@ Lyfe is a discord bot that has an inventory system, trading, jobs, crime and mor
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having issues with the bot, or just want to talk in our server? Then join the [support discord!](https://discord.gg/zAZ3vKJ)
