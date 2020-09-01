@@ -13,14 +13,15 @@ Lyfe is a cross server "game" meaning you are competing against players from oth
 To work your way around the bot, you may need to view the commands. We have made it easy for you to view them and see their purposes inside Discord! 
 The main command is `,help`. This brings up the help menu where you can then view all the different aspects of Lyfe. Do `,help (category)` to view the different commands for that area. If you need more help, visit our [Support Server](https://discord.gg/zAZ3vKJ)
 
+### Donations?
+As of yet, we do not have a way to accept donations, but it is on the list of things to add. 
 
-
-
-
-
-
+### Vote for the bot!
+We are on https://www.top.gg/ meaning you can help us get a better score and reach more people to use our bot! Vote for our bot [here](https://top.gg/bot/730874220078170122).
 
 
 ### Support or Contact
 
 Having issues with the bot, or just want to talk in our server? Then join the [support discord!](https://discord.gg/zAZ3vKJ)
+
+`Wiki Version: Beta 1`
