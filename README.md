@@ -8,4 +8,4 @@ Code for Lyfe Github Pages
 
 [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=730874220078170122&permissions=519232&scope=bot)
 
-[Wiki](https://swepyh.github.io/Lyfe-Wiki/)
+[Wiki](https://hypewsthedev.github.io/Lyfe-Wiki/)
